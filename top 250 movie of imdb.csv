@@ -1,0 +1,251 @@
+Movie_name,release_year,rating,grade,types
+The Shawshank Redemption,1994,9.3,A,Drama
+The Godfather,1972,9.2,A,Crime
+The Dark Knight,2008,9,UA,Action
+The Godfather: Part II,1974,9,A,Crime
+12 Angry Men,1957,9,U,Crime
+The Lord of the Rings: The Return of the King,2003,9,U,Action
+Schindler's List,1993,9,A,Biography
+Pulp Fiction,1994,8.9,A,Crime
+The Lord of the Rings: The Fellowship of the Ring,2001,8.9,U,Action
+"Il Buono, Il Brutto, Il Cattivo",1966,8.8,A,Adventure
+Forrest Gump,1994,8.8,UA,Drama
+The Lord of the Rings: The Two Towers,2002,8.8,UA,Action
+Fight Club,1999,8.8,A,Drama
+Inception,2010,8.8,UA,Action
+Star Wars: Episode V - The Empire Strikes Back,1980,8.7,UA,Action
+The Matrix,1999,8.7,A,Action
+GoodFellas,1990,8.7,A,Biography
+One Flew Over the Cuckoo's Nest,1975,8.7,A,Drama
+Interstellar,2014,8.7,UA,Adventure
+Se7en,1995,8.6,A,Crime
+It's a Wonderful Life,1946,8.6,PG,Drama
+Shichinin No Samurai,1954,8.6,U,Action
+The Silence of the Lambs,1991,8.6,A,Crime
+Saving Private Ryan,1998,8.6,A,Drama
+City of God,2002,8.6,A,Crime
+Life Is Beautiful,1997,8.6,U,Comedy
+The Green Mile,1999,8.6,UA,Crime
+Terminator 2: Judgment Day,1991,8.6,A,Action
+Star Wars: Episode IV - A New Hope,1977,8.6,U,Action
+Back to the Future,1985,8.5,U,Adventure
+Spirited Away,2001,8.6,U,Animation
+The Pianist,2002,8.5,13,Biography
+Parasite,2019,8.5,A,Drama
+Psycho,1960,8.5,A,Horror
+Gladiator,2000,8.5,UA,Action
+The Lion King,1994,8.5,U,Animation
+Spider-man: Across the Spider-verse,2023,8.6,U,Animation
+The Departed,2006,8.5,A,Crime
+Whiplash,2014,8.5,A,Drama
+Grave of the Fireflies,1988,8.5,U,Animation
+American History X,1998,8.5,R,Crime
+Léon,1994,8.5,A,Action
+The Prestige,2006,8.5,U,Drama
+Seppuku,1962,8.6,Not Rated,Action
+The Usual Suspects,1995,8.5,A,Crime
+Casablanca,1942,8.5,U,Drama
+Dune: Part Two,2024,8.5,UA,Action
+Intouchables,2011,8.5,UA,Comedy
+Cinema Paradiso,1988,8.5,U,Drama
+Modern Times,1936,8.5,G,Comedy
+Alien,1979,8.5,R,Horror
+Rear Window,1954,8.5,U,Mystery
+C'era Una Volta Il West,1968,8.5,U,Drama
+Django Unchained,2012,8.5,A,Comedy
+City Lights,1931,8.5,G,Comedy
+Apocalypse Now,1979,8.4,R,Drama
+Memento,2000,8.4,UA,Mystery
+WALL·E,2008,8.4,U,Animation
+Raiders of the Lost Ark,1981,8.4,A,Action
+12th Fail,2023,8.8,na,Biography
+Das Leben der Anderen,2006,8.4,A,Drama
+Sunset Blvd.,1950,8.4,Approved,Drama
+Avengers: Infinity War,2018,8.4,UA,Action
+Paths of Glory,1957,8.4,A,Drama
+Spider-Man: Into the Spider-Verse,2018,8.4,U,Animation
+Witness for the Prosecution,1957,8.4,U,Crime
+The Shining,1980,8.4,A,Drama
+The Great Dictator,1940,8.4,G,Comedy
+Alien 2,1986,8.4,U,Action
+Inglourious Basterds,2009,8.4,A,Adventure
+The Dark Knight Rises,2012,8.4,UA,Action
+Coco,2017,8.4,U,Animation
+Amadeus,1984,8.4,PG,Biography
+Toy Story,1995,8.3,U,Animation
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,PG,Comedy
+Oldeuboi,2003,8.3,A,Action
+American Beauty,1999,8.3,UA,Drama
+Avengers: Endgame,2019,8.4,UA,Action
+Das Boot,1981,8.4,na,Drama
+Braveheart,1995,8.3,A,Biography
+Good Will Hunting,1997,8.3,U,Drama
+Mononoke-hime,1997,8.3,U,Animation
+Kimi No Na Wa.,2016,8.4,U,Animation
+Joker,2019,8.4,A,Crime
+Tengoku to Jigoku,1963,8.4,Not Rated,Crime
+3 Idiots,2009,8.4,UA,Comedy
+Once Upon a Time in America,1984,8.3,A,Crime
+Singin' in the Rain,1952,8.3,G,Comedy
+Capharnaüm,2018,8.4,A,Drama
+Idi I Smotri,1985,8.4,A,Drama
+Requiem for a Dream,2000,8.3,A,Drama
+Toy Story 3,2010,8.3,U,Animation
+Star Wars: Episode VI - Return of the Jedi,1983,8.3,U,Action
+Jagten,2012,8.3,7,Drama
+Eternal Sunshine of the Spotless Mind,2004,8.3,UA,Drama
+2001: A Space Odyssey,1968,8.3,U,Adventure
+Ikiru,1952,8.3,U,Drama
+Reservoir Dogs,1992,8.3,15+,Crime
+Lawrence of Arabia,1962,8.3,U,Adventure
+The Apartment,1960,8.3,U,Comedy
+Incendies,2010,8.3,18,Drama
+Scarface,1983,8.3,A,Crime
+North by Northwest,1959,8.3,U,Action
+Double Indemnity,1944,8.3,Approved,Crime
+Citizen Kane,1941,8.3,UA,Drama
+Oppenheimer,2023,8.3,R,Biography
+M - Eine Stadt sucht einen Mörder,1931,8.3,Passed,Crime
+Vertigo,1958,8.3,A,Mystery
+Heat,1995,8.3,A,Action
+Full Metal Jacket,1987,8.2,UA,Drama
+Le fabuleux destin d'Amélie Poulain,2001,8.3,U,Comedy
+Up,2009,8.3,U,Animation
+A Clockwork Orange,1971,8.2,A,Crime
+To Kill a Mockingbird,1962,8.3,U,Crime
+Jodaeiye Nader Az Simin,2011,8.3,7,Drama
+The Sting,1973,8.3,U,Comedy
+Die Hard,1988,8.2,A,Action
+Indiana Jones and the Last Crusade,1989,8.2,U,Action
+Taare Zameen Par,2007,8.3,U,Drama
+Metropolis,1927,8.3,Not Rated,Drama
+Snatch,2000,8.2,UA,Comedy
+1917,2019,8.2,R,Action
+L.A. Confidential,1997,8.2,A,Crime
+Ladri Di Biciclette,1948,8.3,U,Drama
+Hamilton,2020,8.3,12+,Biography
+Der Untergang,2004,8.2,UA,Biography
+Taxi Driver,1976,8.2,A,Crime
+Dangal,2016,8.3,U,Action
+Batman Begins,2005,8.2,UA,Action
+The Wolf of Wall Street,2013,8.2,A,Biography
+Per qualche dollaro in più,1965,8.2,U,Drama
+Green Book,2018,8.2,UA,Biography
+Some Like It Hot,1959,8.2,U,Comedy
+The Truman Show,1998,8.2,U,Comedy
+Judgment at Nuremberg,1961,8.3,A,Drama
+The Kid,1921,8.2,Passed,Comedy
+The Father,2020,8.2,UA,Drama
+All About Eve,1950,8.2,Approved,Drama
+Shutter Island,2010,8.2,A,Drama
+There Will Be Blood,2007,8.2,A,Drama
+Jurassic Park,1993,8.2,UA,Action
+Casino,1995,8.2,A,Crime
+Top Gun: Maverick,2022,8.2,UA,Action
+Ran,1985,8.2,Not Rated,Action
+The Sixth Sense,1999,8.2,A,Drama
+El Laberinto Del Fauno,2006,8.2,R,Drama
+Unforgiven,1992,8.2,A,Drama
+No Country for Old Men,2007,8.2,18,Crime
+The Thing,1982,8.2,A,Horror
+A Beautiful Mind,2001,8.2,UA,Biography
+Kill Bill: Vol. 1,2003,8.2,A,Action
+The Treasure of the Sierra Madre,1948,8.2,Approved,Adventure
+Yojimbo,1961,8.2,U,Action
+The Great Escape,1963,8.2,U,Adventure
+Finding Nemo,2003,8.2,U,Animation
+Monty Python and the Holy Grail,1975,8.2,U,Adventure
+Prisoners,2013,8.2,A,Crime
+Howl's Moving Castle,2004,8.2,U,Animation
+The Elephant Man,1980,8.2,UA,Biography
+Rashōmon,1950,8.2,U,Crime
+Dial M for Murder,1954,8.2,A,Crime
+Chinatown,1974,8.1,UA,Drama
+Gone with the Wind,1939,8.2,U,Drama
+El Secreto De Sus Ojos,2009,8.2,R,Drama
+"Lock, Stock and Two Smoking Barrels",1998,8.1,A,Action
+Inside Out,2015,8.1,U,Animation
+V for Vendetta,2005,8.1,UA,Action
+"Three Billboards Outside Ebbing, Missouri",2017,8.1,A,Comedy
+Raging Bull,1980,8.1,A,Biography
+Trainspotting,1996,8.1,A,Drama
+The Bridge on the River Kwai,1957,8.1,U,Adventure
+Klaus,2019,8.2,7,Animation
+Catch Me If You Can,2002,8.1,A,Biography
+Fargo,1996,8.1,A,Crime
+Warrior,2011,8.1,UA,Action
+Spider-Man: No Way Home,2021,8.2,UA,Action
+Gran Torino,2008,8.1,UA,Drama
+Harry Potter and the Deathly Hallows: Part 2,2011,8.1,UA,Adventure
+Million Dollar Baby,2004,8.1,UA,Drama
+My Neighbour Totoro,1988,8.1,U,Animation
+Mad Max: Fury Road,2015,8.1,UA,Action
+Bacheha-Ye Aseman,1997,8.2,PG,Drama
+Ben-Hur,1959,8.1,U,Adventure
+12 Years a Slave,2013,8.1,A,Biography
+Barry Lyndon,1975,8.1,U,Adventure
+Before Sunrise,1995,8.1,16,Drama
+Blade Runner,1982,8.1,UA,Action
+The Grand Budapest Hotel,2014,8.1,UA,Adventure
+Hacksaw Ridge,2016,8.1,A,Biography
+Gone Girl,2014,8.1,A,Drama
+Dead Poets Society,1989,8.1,U,Comedy
+Maharaja,2024,8.5,na,Action
+Salinui Chueok,2003,8.1,UA,Crime
+In the Name of the Father,1993,8.1,UA,Biography
+The Gold Rush,1925,8.1,Approved,Adventure
+"Monsters, Inc.",2001,8.1,U,Animation
+Relatos Salvajes,2014,8.1,18,Comedy
+The Deer Hunter,1978,8.1,A,Drama
+Ratatouille,2007,8.1,U,Animation
+Sherlock Jr.,1924,8.2,Passed,Action
+The General,1926,8.1,Passed,Action
+Jaws,1975,8.1,A,Adventure
+How to Train Your Dragon,2010,8.1,U,Animation
+On the Waterfront,1954,8.1,A,Crime
+Mary and Max,2009,8.1,U,Animation
+Le Salaire De La Peur,1953,8.1,U,Adventure
+Ford v. Ferrari,2019,8.1,UA,Action
+Smultronstället,1957,8.1,U,Drama
+Mr. Smith Goes to Washington,1939,8.1,U,Comedy
+The Third Man,1949,8.1,U,Film-Noir
+Logan,2017,8.1,A,Action
+Rocky,1976,8.1,U,Drama
+Tokyo Story,1953,8.1,U,Drama
+The Big Lebowski,1998,8.1,UA,Comedy
+Det Sjunde Inseglet,1957,8.1,A,Drama
+Room,2015,8.1,U,Drama
+Spotlight,2015,8.1,A,Biography
+The Terminator,1984,8.1,A,Action
+Hotel Rwanda,2004,8.1,UA,Biography
+Platoon,1986,8.1,UA,Drama
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,UA,Action
+La haine,1995,8.1,Not Rated,Crime
+Before Sunset,2004,8.1,A,Drama
+Jai Bhim,2021,8.7,A,Crime
+La passion de Jeanne d'Arc,1928,8.1,Passed,Biography
+The Best Years of Our Lives,1946,8.1,Approved,Drama
+The Exorcist,1973,8.1,A,Horror
+Rush,2013,8.1,R,Action
+The Incredibles,2004,8,U,Animation
+The Wizard of Oz,1939,8.1,U,Adventure
+Network,1976,8.1,UA,Drama
+Stand by Me,1986,8.1,U,Adventure
+Hachi: A Dog's Tale,2009,8.1,U,Biography
+The Sound of Music,1965,8.1,U,Biography
+My Father and My Son,2005,8.2,Not Rated,Drama
+Ah-ga-ssi,2016,8.1,A,Drama
+To Be or Not to Be,1942,8.1,Approved,Comedy
+Into the Wild,2007,8.1,U,Adventure
+La battaglia di Algeri,1966,8.1,Not Rated,Drama
+Groundhog Day,1993,8,U,Comedy
+The Iron Giant,1999,8.1,U,Animation
+The Grapes of Wrath,1940,8.1,Approved,Drama
+Amores perros,2000,8,A,Drama
+Rebecca,1940,8.1,Approved,Drama
+The Help,2011,8.1,UA,Drama
+Cool Hand Luke,1967,8.1,U,Crime
+It Happened One Night,1934,8.1,Approved,Comedy
+Gangs of Wasseypur,2012,8.2,A,Action
+Laapataa Ladies,2023,8.4,TV-14,Comedy
+Drishyam,2015,8.2,UA,Crime
